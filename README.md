@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+# 📺 Todo app in Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+---
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+<img src="./public/demo.png" alt="Todo app Demo" width="800"/>
+
+## 🛠 Stack
+
+- Vue 3.4
+- TypeScript
+- Motion for Vue
+- Tailwind 3.4
+
+## 🤝 Contributing
+
+Please report bugs in the [Issues](https://github.com/thisisal1ev/todo-app-vue/issues) section or submit a Pull Request with your suggestions.
+
+## Connection
+
+<a href='mailto:aaalievvv1@gmail.com'>Email</a>
+<a href='https://t.me/thisisaliyev'>Telegram</a>
