@@ -10,6 +10,7 @@
 - TypeScript
 - Motion for Vue
 - Tailwind 3.4
+- Vite 6
 
 ## 🤝 Contributing
 
